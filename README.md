@@ -1,2 +1,2 @@
 # Amazon-Sale-Report
-Amazon Sale Report : Python
+Used Python to get insights from Amazon's sales data
